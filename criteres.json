@@ -1,0 +1,17 @@
+{
+  "communes": [
+    { "nom": "Toulon", "cp": ["83000", "83100", "83200"] },
+    { "nom": "La Valette-du-Var", "cp": ["83160"] },
+    { "nom": "La Garde", "cp": ["83130"] },
+    { "nom": "Le Pradet", "cp": ["83220"] },
+    { "nom": "Carqueiranne", "cp": ["83320"] },
+    { "nom": "La Crau", "cp": ["83260"] },
+    { "nom": "Hyères", "cp": ["83400"] }
+  ],
+  "loyer_max": 2000,
+  "surface_min": 75,
+  "jardin_obligatoire": true,
+  "presque": { "loyer_max": 2200, "surface_min": 70 },
+  "ideal_pieces_min": 4,
+  "nouveau_heures": 48
+}
